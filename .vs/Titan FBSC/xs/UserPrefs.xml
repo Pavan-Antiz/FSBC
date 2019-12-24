@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C94C2974-5AD2-766F-E212-1649E10D6FBC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Qut.cs">
+    <Files>
+      <File FileName="Assets/script/Change_scene.cs" Line="21" Column="39" />
+      <File FileName="Assets/script/Qut.cs" Line="23" Column="1" />
+      <File FileName="Assets/script/Qut.cs" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

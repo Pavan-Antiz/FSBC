@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{77280288-3994-2762-453E-37EBF7B9FBF1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VideoSeekBar/Scripts/Play_Video_script/Style1VideoPlay.cs">
+    <Files>
+      <File FileName="Assets/PPEnew/Scripts/ListRI.cs" Line="1" Column="1" />
+      <File FileName="Assets/PPEnew/Scripts/chooseCorrectAnswer.cs" />
+      <File FileName="Assets/script/Change_scene.cs" />
+      <File FileName="Assets/VideoSeekBar/Scripts/Play_Video_script/Style1VideoPlay.cs" Line="230" Column="50" />
+      <File FileName="Assets/C# Scripts/TransitionVideo.cs" />
+      <File FileName="Assets/Quiz/Scripts/GetTagVal.cs" />
+      <File FileName="Assets/script/test.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="66ff3dae-5605-4474-99f0-bba0143e112c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
